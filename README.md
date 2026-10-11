@@ -1,6 +1,6 @@
 # StudentPortal — Student Directory
 
-A responsive Student Directory built with React components and props, Vite, and Bootstrap 5. The UI is inspired by the provided reference screenshot.
+A responsive Student Directory built with React components and props, Vite, and Bootstrap 5. 
 
 ## Features
 - Responsive Bootstrap navbar, breadcrumb, grid, cards, buttons, pagination, alert, and footer
